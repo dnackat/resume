@@ -1,3 +1,5 @@
+_Status_: __In Progress__    
+
 A crisp single-page, one-column resume for software developers created by [Saurabh Bajaj](https://github.com/sb2nov/resume) that I edited to make it a little more friendly to non-CS engineers. 
 
 ### Motivation (writen by Saurabh)
